@@ -20,9 +20,9 @@ body
 {
     margin: 0 0 0 1em;
     font-weight: normal;
-    font-size: 18px;
+    font-size: 0.8em;
     font-family: 'Courier New', Courier, monospace;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 #container
 {
